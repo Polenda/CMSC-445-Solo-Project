@@ -1,6 +1,6 @@
 # baco Tell Maze Rush - A Time-Based Maze Runner Game
 
-![Maze Rush Screenshot](<IMAGEHERE>)
+![Maze Rush Brainstorm](./assets/sketch.png)
 
 ## Game Overview
 
