@@ -2,7 +2,7 @@
 
 ![Maze Rush Screenshot](<IMAGEHERE>)
 
-## 🎮 Game Overview
+## Game Overview
 
 **Maze Rush** is a time-based maze runner where the objective is simple:  
 Navigate through a **randomly generated maze** as fast as you can to locate and **touch the final boss**.
