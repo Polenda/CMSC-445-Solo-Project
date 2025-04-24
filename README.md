@@ -1,4 +1,4 @@
-# baco Tell Maze Rush - A Time-Based Maze Runner Game
+# Baco Tell Maze Rush - A Time-Based Maze Runner Game
 
 ![Maze Rush Brainstorm](./assets/sketch.png)
 
